@@ -1,0 +1,6 @@
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d3-sql-c-dependency-injection-lecture\Vending Machine-DI\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d3-sql-c-dependency-injection-lecture\Vending Machine-DI\Capstone\bin\Debug\Capstone.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d3-sql-c-dependency-injection-lecture\Vending Machine-DI\Capstone\bin\Debug\Capstone.pdb
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d3-sql-c-dependency-injection-lecture\Vending Machine-DI\Capstone\obj\Debug\Capstone.csprojResolveAssemblyReference.cache
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d3-sql-c-dependency-injection-lecture\Vending Machine-DI\Capstone\obj\Debug\Capstone.exe
+C:\Users\aobiedat\Tech Elevator\.Net class\week1\c-lectures\m2-w2d3-sql-c-dependency-injection-lecture\Vending Machine-DI\Capstone\obj\Debug\Capstone.pdb
