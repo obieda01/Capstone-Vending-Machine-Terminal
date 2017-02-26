@@ -4,7 +4,9 @@
 
 </p>
 
-
+  
+  
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Build Status](https://travis-ci.org/anfederico/Clairvoyant.svg?branch=master)
 ![bitHound](https://img.shields.io/bithound/code/github/rexxars/sse-channel.svg)
